@@ -1,0 +1,20 @@
+## full_x657c_h6117-user 10 QP1A.190711.020 62333 release-keys
+- Manufacturer: infinix mobility limited
+- Platform: mt6761
+- Codename: Infinix-X657C
+- Brand: Infinix
+- Flavor: full_x657c_h6117-user
+- Release Version: 10
+- Kernel Version: 4.9.190
+- Id: QP1A.190711.020
+- Incremental: GH-GL-220821V327
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: 320
+- Fingerprint: Infinix/X657C-GL/Infinix-X657C:10/QP1A.190711.020/GH-GL-220821V327:user/release-keys
+- OTA version: 
+- Branch: full_x657c_h6117-user-10-QP1A.190711.020-62333-release-keys
+- Repo: infinix_infinix-x657c_dump

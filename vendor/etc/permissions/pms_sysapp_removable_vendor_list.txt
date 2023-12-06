@@ -1,0 +1,17 @@
+
+com.afmobi.boomplayer
+com.hatsune.eagleee
+com.vskit.lite
+com.facebook.katana
+com.facebook.orca
+com.instagram.android
+com.gameloft.android.GloftBUB3
+com.transsnet.palmpay
+com.transread.novel.story.lite
+com.transsnetfinancial.palmcredit
+com.cnn.indonesia
+com.infinix.xparkgo
+com.infomedia.angkasapura2v2
+id.mjs.etalaseapp
+com.talpa.hibrowser
+com.smartlife.nebula
